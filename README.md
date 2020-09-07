@@ -1,9 +1,9 @@
 # Readme Generator
 
-   [](https://img.shields.io/badge/License-MIT-brightgreen)
+   [![Github](https://img.shields.io/badge/License-MIT-brightgreen)](#License)
 
    ## Description
-   This project with auto generate a readme file based off user input in the terminal
+   This project will automatically generate a readme file based on the user input through the terminal
 
    ## Table of Contents
    * [Instalation](#Installation)
@@ -14,10 +14,10 @@
    * [Questions](#Questions)
    
    ## Installation
-   To install the necessary dependencies, run the following code: npm install
+   To install the necessary dependencies, run the following command in the terminal: npm install
 
    ## Usage
-   To use this project and generate a readme, run the following code: node index.js
+   To use this project, run the following command in the terminal: node index.js
 
    ## License
    
@@ -32,12 +32,12 @@
         THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
    ## Contributing
-   To contribute to this project, please contact me following the instructions in the Questions section
+   To be added as a contributor, please reach out to me following the information in the Questions section
    ### Contributors
    [![Contributor Image](https://github.com/CalebParris.png?size=75)](https://github.com/CalebParris)
 
    ## Tests
-   To test this project, run the code from the Installation and Usage sections and fill out the terminal prompts with your information
+   To test this project, run the commands from the Installation and Usage sections and fill out the propmts with your information
 
    ## Questions
    If you have any comments, questions, or concerns about this project, please post them [here](https://github.com/CalebParris/Readme-Generator/issues) and I will respond as soon as I am able.

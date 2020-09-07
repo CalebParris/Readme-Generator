@@ -67,7 +67,7 @@ function promptUser(){
 function generateReadme(answers){
    return `${`# ${answers.title}
 
-   [](https://img.shields.io/badge/License-${answers.license}-brightgreen)
+   [![Github](https://img.shields.io/badge/License-${answers.license}-brightgreen)](#License)
 
    ## Description
    ${answers.description}
@@ -131,7 +131,7 @@ function generateLicenseInfo(answers){
     } else if (answers.license === "ISC"){
         let licenseInfo = `
         ISC License
-        
+
         Copyright ${currentYear()} ${answers.personName}
 
         Permission to use, copy, modify, and/or distribute this software for any purpose with or without fee is hereby granted, provided that the above copyright notice and this permission notice appear in all copies.
