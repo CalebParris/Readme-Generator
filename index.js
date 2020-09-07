@@ -158,7 +158,7 @@ promptUser()
 .then(function(answers){
     const readMe = generateReadme(answers);
 
-    return writeFileAsync("Readme.md", readMe)
+    return writeFileAsync("newREADME.md", readMe)
 })
 .then(function(){
     console.log("Wrote to new file!");
