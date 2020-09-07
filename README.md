@@ -6,7 +6,7 @@
    This project will automatically generate a readme file based on the user input through the terminal
 
    ## Table of Contents
-   * [Instalation](#Installation)
+   * [Installation](#Installation)
    * [Usage](#Usage)
    * [License](#License)
    * [Contributing](#Contributing)
