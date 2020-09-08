@@ -156,12 +156,14 @@ function currentYear(){
 //This runs the promts and the writes the necessary info to a markdown file based on the answers to the promted questions
 promptUser()
 .then(function(answers){
+    console.log(answers);
     const readMe = generateReadme(answers);
 
     return writeFileAsync("newREADME.md", readMe)
 })
 .then(function(){
     console.log("Wrote to new file!");
+    
 })
 .catch(function(err){
     console.log(err);
