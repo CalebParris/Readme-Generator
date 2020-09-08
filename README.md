@@ -38,6 +38,9 @@
 
    ## Tests
    To test this project, run the commands from the Installation and Usage sections and fill out the prompts with your information
+   
+   Here is a link to a video wakthrough of the application:
+   https://drive.google.com/file/d/1qw77HTvIackjRqTPhdeA5ZG8JVJq3_TX/view?usp=sharing
 
    ## Questions
    If you have any comments, questions, or concerns about this project, please post them [here](https://github.com/CalebParris/Readme-Generator/issues) and I will respond as soon as I am able.
