@@ -39,6 +39,18 @@
    ## Tests
    To test this project, run the commands from the Installation and Usage sections and fill out the prompts with your information
 
+   Here are some screenshots of the working application after testing:
+
+   ![Screenshot of Node.JS working](./assets/images/Readme-Generator-1.png)
+
+   ![Screenshot of newly created readme](./assets/images/Readme-Generator-2.png)
+
+   ![Screenshot of the nre readme preview](./assets/images/Readme-Generator-3.png)
+
+   Here is a link to a wakthrough video of the application during testing:
+
+   https://drive.google.com/file/d/1AZTYYnAMIFyExdKMyJgiuSNATxgqoo3I/view?usp=sharing
+
    ## Questions
    If you have any comments, questions, or concerns about this project, please post them [here](https://github.com/CalebParris/Readme-Generator/issues) and I will respond as soon as I am able.
 
